@@ -1,2 +1,1 @@
-# hello-world
-say hello to world
+hello this is my first time to start using gitHub. I start liking it.
